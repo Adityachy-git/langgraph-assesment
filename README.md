@@ -119,4 +119,4 @@ pip install -r "Assessment 2/requirements.txt"
 
 ## Author
 
-Priyanshu Chand
+Aditya Choudhary
